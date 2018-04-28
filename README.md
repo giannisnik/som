@@ -1,5 +1,5 @@
 ## Self-Organizing Map
-PyTorch implementation of a Self-Organizing Map. The code is adapted from Sachin Joglekar's [Tensorfow implementation](https://arxiv.org/pdf/1710.10689.pdf).
+PyTorch implementation of a Self-Organizing Map. The code is adapted from Sachin Joglekar's [Tensorfow implementation](https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/).
 
 ### Requirements
 Code is written in Python 3.6 and requires:
