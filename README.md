@@ -3,7 +3,7 @@ PyTorch implementation of a Self-Organizing Map. The code is adapted from Sachin
 
 ### Requirements
 Code is written in Python 3.6 and requires:
-* PyTorch 0.3
+* PyTorch 1.0.0
 
 ### Run the example
 Use the following command:

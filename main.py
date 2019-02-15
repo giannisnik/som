@@ -58,7 +58,7 @@ for i, loc in enumerate(locations):
 image_grid = centroid_grid
 
 #Map colours to their closest neurons
-mapped = som.map_vects(colors)
+mapped = som.map_vects(torch.Tensor(colors))
 
 #Plot
 plt.imshow(image_grid)
